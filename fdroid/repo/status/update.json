@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--verbose"],"disabled":[],"endTimestamp":1633787094939,"failedBuilds":{},"noPackages":["nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633787091000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--verbose"],"disabled":[],"endTimestamp":1633787436624,"failedBuilds":{},"noPackages":["nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633787431000,"subcommand":"update"}
