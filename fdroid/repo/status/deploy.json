@@ -1,1 +1,1 @@
-{"commandLine":["/usr/bin/fdroid deploy"],"endTimestamp":1633789163426,"startTimestamp":1633789162000,"subcommand":"deploy"}
+{"commandLine":["/usr/bin/fdroid deploy","--verbose"],"endTimestamp":1633789385840,"startTimestamp":1633789384000,"subcommand":"deploy"}
